@@ -18,7 +18,7 @@ import org.xml.sax.SAXException;
 import java.io.IOException;
 import java.io.StringReader;
 import java.io.StringWriter;
-,import java.io.UnsupportedEncodingException;
+import java.io.UnsupportedEncodingException;
 import java.lang.ref.WeakReference;
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
@@ -65,8 +65,8 @@ public class ExlapReader {
     private static final String[] P = {
             "s4T2K6BAv0a7LQvrv3vdaUl17xEl2WJOpTmAThpRZe0==",
             "T53Facvq51jO8vQJrBNx3MqLWmPcHf/hkow7yLu7SuA==",
-            "KozPo8iE0j72pkbWXKcP0QihpxgML3Opp8fNJZ0wN24="
-            "Fo7arEpPhAgMMznzxRlV8B7eeZgNDIYQcy0Gr7Ad1Fg="
+            "KozPo8iE0j72pkbWXKcP0QihpxgML3Opp8fNJZ0wN24=="
+            "Fo7arEpPhAgMMznzxRlV8B7eeZgNDIYQcy0Gr7Ad1Fg=="
     };
 
     private static final DateFormat TIMESTAMP_DATE_FORMAT =
